@@ -14,7 +14,3 @@ def insertionSort(array):
         array[j + 1] = key
 
 
-data = [9, 5, 1, 4, 3]
-insertionSort(data)
-print('Sorted Array in Ascending Order:')
-print(data)
